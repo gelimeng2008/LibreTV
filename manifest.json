@@ -1,6 +1,6 @@
 {
-    "name": "LibreTV",
-    "short_name": "LibreTV",
+    "name": "L2FATER-TV",
+    "short_name": "L2FATER-TV",
     "description": "免费在线视频搜索与观看平台",
     "start_url": ".",
     "display": "standalone",
